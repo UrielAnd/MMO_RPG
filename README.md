@@ -40,9 +40,9 @@ O jogo foi criado no primeiro período do curso de ciência da computação na p
     - Esfera de ataque
     - Voto Solene de Bul-Kathos (espada lendária)
 
-## Para jogar basta fazer o donwload do MMO_RPG e ter um compilador para poder compilar o codigo main presente no arquivo.
+### Para jogar basta fazer o donwload do MMO_RPG e ter um compilador para poder compilar o codigo main presente no arquivo.
 
-Linguagem Ultilizada
+### Linguagem Ultilizada
  <div>
 <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
 </div>
